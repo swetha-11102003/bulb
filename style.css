@@ -1,0 +1,29 @@
+img{
+    height:250px;
+    width:250px;
+    margin-left:400PX;
+    margin-bottom: 20px;
+    border: 5px solid black;
+}
+h1{
+    margin-left: 240px;
+    font-style: oblique;
+    color: red;
+    text-shadow: 3px 3px 3px blue;
+
+}
+button{
+    height:25px;
+    width:150px;
+    margin-left: 470px;
+    background-size: 20px;
+
+    background-color:skyblue ;
+    color:white;
+    
+}
+body{
+    background: url("./images1.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
